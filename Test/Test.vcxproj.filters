@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\offer">
+      <UniqueIdentifier>{37813681-b06d-4da8-bd64-3028afc8902d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\测试">
+      <UniqueIdentifier>{ac58e872-0000-4dc9-aec1-559c25272761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\设计模式">
+      <UniqueIdentifier>{c9faba29-9db3-42c8-a305-698fc2332ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\C++11">
+      <UniqueIdentifier>{1f7065d8-6d86-47a7-a4a7-a0773d332fc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\京东">
+      <UniqueIdentifier>{c9a434e7-f3a3-4576-b729-ce7f56db8aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\360">
+      <UniqueIdentifier>{1f26b60a-9156-4a42-9c47-53619db6fcaf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NextNodeInBinary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InitializerTest.h">
+      <Filter>头文件\C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>头文件\测试</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exercise.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NextNodeInBinary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Fibonacci.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SuffixTreeNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solutions.h">
+      <Filter>头文件\offer</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>头文件\测试</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>头文件\设计模式</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JD.h">
+      <Filter>头文件\京东</Filter>
+    </ClInclude>
+    <ClInclude Include="S360.h">
+      <Filter>头文件\360</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
